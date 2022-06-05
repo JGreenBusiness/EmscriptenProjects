@@ -1,4 +1,5 @@
- 
+
+
  # make sure we are in the project directory
  cd /app
 
